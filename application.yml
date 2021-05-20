@@ -10,3 +10,6 @@ management:
       exposure:
         include:
         - "*"   
+        
+user:  
+  firstName: jaya        
